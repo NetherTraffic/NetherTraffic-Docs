@@ -11,7 +11,7 @@ tagline:
 
 # 概述
 
-NetherTraffic 作为 HiMCBBS 社区生，诞生于2024/11/16，由 WXMC Network 运营。
+NetherTraffic 作为 HiMCBBS 社区生态，诞生于2024/11/16，由 WXMC Network 运营。
 
 # 快速入门
 [使用教程](use)
